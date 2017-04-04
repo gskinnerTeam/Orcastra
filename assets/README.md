@@ -1,0 +1,9 @@
+Use Animate CC to open and export the Orcastra_Art.fla file as a CreateJS asset library.
+
+For more information about exporting from Animate CC please visit:
+
+[Create and publish HTML5 Canvas documents in Animate CC](http://www.adobe.com/products/flash/flash-to-html5.html)
+
+**Note:** Flash CC 13.1 has an issue with calculating bounds for frames in tweens. Because these bounds are used for defining the sprite sheet frame rects, you will notice some sprite sheet frames in the game will be improperly cropped if you re-export the animations.
+
+**All art and graphics is copyright 2013 gskinner.com, inc. and cannot be used without permission.**

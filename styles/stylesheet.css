@@ -1,0 +1,20 @@
+html, body{
+    margin: 0;
+    background-color:#252525;
+    background: #eee url('../extras/pattern.png');
+}
+
+#canvas{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    display: block;
+
+    margin-left: -404px;
+    margin-top: -308px;
+
+    background-color:#252525;
+    border: 5px solid #000000;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.95);
+}
