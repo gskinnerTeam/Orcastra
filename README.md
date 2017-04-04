@@ -1,8 +1,8 @@
 Orcastra built with CreateJS
 =======
-![ScreenShot](https://raw.github.com/gskinnerTeam/Orcastra/screenshots/Image1.png)
-![ScreenShot](https://raw.github.com/gskinnerTeam/Orcastra/screenshots/Image2.png)
-![ScreenShot](https://raw.github.com/gskinnerTeam/Orcastra/screenshots/Image3.png)
+![ScreenShot](https://github.com/gskinnerTeam/Orcastra/blob/master/screenshots/Image1.png)
+![ScreenShot](https://github.com/gskinnerTeam/Orcastra/blob/master/screenshots/Image2.png)
+![ScreenShot](https://github.com/gskinnerTeam/Orcastra/blob/master/screenshots/Image3.png)
 
 **[View this example online.](https://lab.gskinner.com/orcastra)**
 
