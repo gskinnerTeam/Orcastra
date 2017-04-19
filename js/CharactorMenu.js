@@ -82,7 +82,7 @@ var p = createjs.extend(CharactorMenu, createjs.Container);
 			this.dispatchEvent(event);
 		} else if (event.type == 'rollout' || event.type == 'rollover') {
 			var scale = (event.type == 'rollout') ? this.normalScale : this.overScale;
-			var ease = (event.type == 'rollout') ? createjs.Ease.elasticOut : createjs.Ease.elasticOut;
+			var ease = (event.type == 'rollout') ? createjs.Ease.circOut : createjs.Ease.circOut;
 			createjs.Tween.get(event.target).to({scaleX:scale, scaleY:scale}, 250, ease);
 		}
 
